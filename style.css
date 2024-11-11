@@ -1,0 +1,28 @@
+.header, .image-container {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: #FDD2BF;
+    
+}
+h1, h2 {
+    color: black;
+    font-family: "Bellota", system-ui;
+    font-size: 40px;
+    font-weight: bolder;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+#one, #two {
+    padding: 20px;
+    background-color: #eeaeca;
+    color:black;
+    font-family: "Marck Script", cursive;
+    font-size: 40px;
+}
